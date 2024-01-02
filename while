@@ -1,0 +1,4 @@
+  while (attempts > 0) {
+        std::cout << "Enter your guess: ";
+        int guess;
+        std::cin >> guess;
